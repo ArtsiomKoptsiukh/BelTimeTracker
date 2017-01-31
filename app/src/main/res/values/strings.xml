@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BelTimeTracker</string>
+    <string name="menu_add_task">Add Task</string>
+</resources>
